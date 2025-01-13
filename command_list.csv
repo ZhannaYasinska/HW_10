@@ -1,0 +1,87 @@
+    1  cd 
+    2  ls
+    3  cd Newreposit
+    4  clear
+    5  cd Newreposit
+    6  ls
+    7  cd Dekstop
+    8  cd Desltop
+    9  cd Desktop
+   10  cd Newreposit
+   11  history-c && rm ~ /.bash_history
+   12  clear
+   13  clear
+   14  cd ..
+   15  clear
+   16  git config --global user.name > Zhanna Yasinska
+   17  git config --global user.email "zhanna02@ukr.net"
+   18  mk dir Newdesk
+   19  mkdir Newdesk
+   20  cd Desktop
+   21  mkdir Newdesk
+   22  history-c&&rm~/.bash_history
+   23  history-c && rm ~ /.bash_history
+   24  clear
+   25  git config --global user name "ZHANNA YASINSKA"
+   26  clear
+   27  git config --global user.name "ZHANNA YASINSKA"
+   28  clear
+   29  cd ..
+   30  git config user.name "ZHANNA YASINSKA"
+   31  cd..
+   32  cd ..
+   33  clear
+   34  git config user.name "ZHANNA YASINSKA"
+   35  clear
+   36  cd ..
+   37  cd ..
+   38  cd .. 
+   39  git config --global user.name "ZHANNA YASINSKA"
+   40  git config --global user.email "zhanna02@ukr.net"
+   41  git commit -m "User name"
+   42   clear
+   43  git config --global user.name "ZHANNA YASINSKA"
+   44  git config --global user.email "zhanna02@ukr.net"
+   45  cd Desktop
+   46  cd Newreposit
+   47  clear
+   48  cd Newdesk
+   49  history-c && rm ~ /.bash_history
+   50  clear
+   51  git config --global user.name "ZHANNA YASINSKA"
+   52  git config --global user.email "zhanna02@ukr.net"
+   53  git clone [200~
+   54  git clone 
+   55   
+   56      cd ..
+   57  cd ..
+   58  clear
+   59  cd Desktop
+   60  cd Newdesk
+   61  git config --global user.name "Zhanna Yasinska"
+   62  git config --global user.email "zhanna02@ukr.net"
+   63  git clone https://github.com/ZhannaYasinska/HW_10.git
+   64  cd HW_10
+   65  touch text_ignore.txt
+   66  nano .gitignore
+   67  git status
+   68  git add .gitignore
+   69  git commit -m "Changes in .gitignore"
+   70  touch main_test.txt
+   71  git add main_test.txt
+   72  git commit -m "New file txt created"
+   73  git checkout -b develop
+   74  git checkout develop
+   75  touch develop_test.txt
+   76  git add develop_test.txt
+   77  git commit -m "New file develop"
+   78  nano develop_test.txt
+   79  git status
+   80  git add develop_test.txt
+   81  git commit -m "Second file txt created"
+   82  git checkout main
+   83  git merge develop
+   84  git log
+   85  git add history > command_list.csv
+   86  git commit -m "My file"
+   87  history > command_list.csv
